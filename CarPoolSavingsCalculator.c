@@ -1,7 +1,7 @@
 /*	Programmer Name: Tom Carrio
 	Program Purpose: To receive input from the user/s in order to 
 	calculate the cost savings of carpooling. 
-
+*/
 #include <stdio.h>
 
 int main(void)
